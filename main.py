@@ -15,7 +15,7 @@ while True:
     time.sleep(4)
     while True:
         # Python3 code to iterate over a list
-        list = ["bou amar <3 ;-* ", " xoilja ;-* "]
+        list = ["hi", "hum"]
 
         # Getting length of list
         length = len(list)
